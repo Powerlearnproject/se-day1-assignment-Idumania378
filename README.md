@@ -12,6 +12,12 @@ _reliability:_  enssures the software operates without bias
 _scalability:_  ensures the sodtware can accoommodate increased demand without compromising functionality
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+Mastering Complexity (1960s-1970s):
+As software systems grew larger, developers realized the need for structured programming techniques to break down complex systems into smaller, manageable components.
+Mastering Process (1980s-1990s):
+the rise of larger software projects, made it clear that an organized development process was crucial. 
+Mastering Machine
+As hardware capabilities advanced, software engineering evolved to optimize performance, leverage cloud computing, and integrate AI and automation.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
